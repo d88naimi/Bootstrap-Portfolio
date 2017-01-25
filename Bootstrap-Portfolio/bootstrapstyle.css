@@ -1,0 +1,122 @@
+body{
+	background-image: url("images/concrete_seamless.png");
+}
+
+.name_header { 
+	background-color: #4aaaa5;
+	font-size: 50px;
+    text-align: center;
+    padding: 10px;
+    height: auto;
+    color: #ffffff;
+}
+
+#body_container{
+	width: 90%;
+  	max-width: 960px;
+  	margin: 0 auto;
+  	margin-top: 50px;
+}
+
+#main_container{
+	background-color: blue;
+	height: auto;
+	text-align: center;
+	 background-color:#ffffff;
+	 border:3px solid #cccccc;
+	 
+}
+
+#link_container{
+	background-color: #ffffff;
+	height: auto;
+	text-align: center;
+	color: #4aaaa5;
+	border:3px solid #cccccc;
+	padding-bottom: 25px;
+
+}
+
+#header_row {
+	background-color: #ffffff;
+	border:3px solid #cccccc;
+}
+
+nav{
+    color: #777777;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 30px;
+
+}
+
+#footer_container {
+	bottom: 0;
+	right:0;
+	left:0;
+	height: 75px;
+	border-top: 10px solid #4aaaa5; 
+	text-align: center;
+	 border:1px solid black;
+	 font-size: 25px;
+	 background-color: #666666;
+	 color: #ffffff;
+	 position: fixed;
+	 padding-top: 15px
+
+}
+
+    .davey{
+   max-width: 100%; 
+   	width:200px;
+	height: 300px;
+	float: left;
+}
+
+
+.logo{
+	width: 73px;
+	height: 73px;
+}
+
+.portfolio_images{
+	width: 280px;
+	height: 200px;
+
+}
+
+.headInfo {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	border-bottom: 3px solid #cccccc;
+}
+
+.inputfield{
+	width: 100%;
+	max-width:100%;
+	padding: 3px;
+
+}
+
+.textfield{
+float: left;
+font-size: 25px;
+color: #777777;
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#textbox {
+	height: 140px;
+}
+
+.submitbutton{
+	color: #ffffff;
+	background-color: #4aaaa5;
+	font-size: 25px;
+	margin-left: 21px;
+
+}
+
+
+
+
+
