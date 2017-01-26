@@ -42,10 +42,17 @@ body{
 	border:3px solid #cccccc;
 }
 
+a: link {
+  color:inherit;
+  text-decoration: none;
+ }
+
 nav{
+
     color: #777777;
     font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
     font-size: 30px;
+    margin-top: 25px
 
 }
 
@@ -53,15 +60,15 @@ nav{
 	bottom: 0;
 	right:0;
 	left:0;
-	height: 75px;
-	border-top: 10px solid #4aaaa5; 
+	height: 65px;
 	text-align: center;
-	 border:1px solid black;
+	 border-top: 10px solid #4aaaa5;
 	 font-size: 25px;
 	 background-color: #666666;
 	 color: #ffffff;
 	 position: fixed;
 	 padding-top: 15px
+	 
 
 }
 
@@ -79,9 +86,11 @@ nav{
 }
 
 .portfolio_images{
-	width: 280px;
-	height: 200px;
-
+    width: 220px;
+    max-width: 80%;
+    height: 200px;
+    padding: 2px;
+    margin: 20px;
 }
 
 .headInfo {
