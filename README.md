@@ -31,4 +31,4 @@ There are many predefined bootstrap components but they need to be customized so
 
 ### 4. Deploying to GitHub
 
-Github offers a
+Github Pages
